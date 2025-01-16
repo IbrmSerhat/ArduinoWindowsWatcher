@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533749493003",
+    "project_id": "icek-45438",
+    "storage_bucket": "icek-45438.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533749493003:android:6a86ee01feac9b9e58860e",
+        "android_client_info": {
+          "package_name": "com.cek180i"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkooRXZIyyRh7rBfADz4lRJ2Eqe8GRsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

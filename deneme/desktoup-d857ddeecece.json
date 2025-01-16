@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "desktoup",
+  "private_key_id": "d857ddeececea153b5730bd287e4c3f665e57e5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZQJsEvf1IgMyS\nEteGRfwZ/KGODi9uaDOqNdav6pV9FBKjvYIhrGaY1E9r1hA3X0CG1ivee7riwCTH\nQ3nYQ/ZIE/npE+vTb/UmQfPkvzSsek9eJQRr5QkCuh0hkRqaYWDXcGy4DCA1xfVp\nZFjIPpLMXSySYOpEgkwSrxScStVmySIar2upqQciGvS55O0i7wtOgGwGom7ZjbTn\niRV2P0ABM40Vcpx3S0jC3RxvEiqCuyIXqzwOc3fhj7tLdYbd0A1C/3y4SRgeopeO\nKMg/SQlWUdZ0GPohVRptpZWibSI4uJngEJjaevDDwGZtYU/fk8FXS3k/zT3CmfDX\nmFrRRSCpAgMBAAECggEAQFCAHf/bnUNMVtsobtXNBFzksdibKDL7x6lbhS0l+j1j\nyyq7Q4V18xpakE9gM9S6IDweYfq8BfAMH0HejxeKclpLzXiKRgwcricMg0mJAf88\ncq6HSf5vByFzG0SpjPNj8FXikmSoWdjPcqDlr3evJKvPiki41/J0mXy3YhX3s+/7\nqpQnsbI09vsBRlFygPNhKsvHLypYxMREDruRX0mNmQs+ReuB7q4sGchGau2991gZ\nfWsketeB/zEqjNBtIFS6BMEk9p7rj/Ls1cKUvT6Yw7hWqE8klLBp5m9XRJBPx7A+\ngny7Rqnni3cFnD6/V7zizJQHap3sTnqmo3MPonOdlwKBgQDHZoYp89xelEaGY5YX\nhypdKhwqVncCxUQ9xQko5czowrgMTJVEd8WVMYu1JDpZOnbPoswE3eqIIg3/f9XV\nUP7WPCgGSnxltcRQ4KTDDEYOuDB5XFEtUgIiS8MQ64f/VcAxKU0TsBjjzh2My6F9\nN5Al6U1M3yePUYLyVr1Z8GEytwKBgQDEwLgcpI62ehaIi5IEEK+cVtKHDRvYlJic\ntMW0WIjlGa4yFIHiuK74VuvclrSk10SulzZUSBazu8XVJnuvvL6558ZmMYXOYsH7\naF44jXenS4a/GpC9egWXgPVMxSif7KLqANREbhd5Rt7Jpc3hs+Jas+uMW/sT186/\n70X4F3lnnwKBgC/vgrNVL5YBGU83Y562XMXW2LyI2sVsvPIIiyIs1GzkWrCCPKQg\nEvzB028xjWFj/6n83gURgE9HuIvCpJpKhWjlP0373Bnrb41t484MBk+Fkgmq2s0F\nWQP7qKJJrQECEVkAL8pa3DDvnQT68xCSKfIjOvUO9IistMkjdxPHCObTAoGAWcqt\n+3xqGQMMx5ISuEI5Mrs45yNnYucl4tZpJ84D47JdmkNbp3GrgHCCwbARju0jTh56\nT+p6WdpHBejDJ8eWr1cEZ10QeMj/SFIwNdTyF2pTe2GPTrmiVasnx7puuNWQ4AQy\n22v20IU0ZYiCtg+XLNfRlsPfiQXDODrljrx/zncCgYAiISNJsNk3Vw0QdxTNnZCH\nkeIIlHQ6bW44BnuwY4FtbBlkaDQkLIGcZav5wu+PbPi5eoTspEiidxTEhSUB/5j5\naDd2ZDbBmDfKrE/cwocoT3Hwyyx8z0Rl0GSrqQedV7U5YgDPZJNQwnP27Z6V3pMp\n54UuMfcFX+P7+Ycpj/7qZg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "windowwatcher@desktoup.iam.gserviceaccount.com",
+  "client_id": "102149798133863436720",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/windowwatcher%40desktoup.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
